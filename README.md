@@ -8,9 +8,11 @@
 # Import CSS file
 # Define class attribute
 
-## JavaScript expressions in JSX
+## JavaScript expressions in JSX (Curly brace syntax)
 # Display data dynamicly in React components
 
 ## Props
 # Pass parameters to React components
-# Make components reusable
+# Make components configurable and reusable
+
+## Use regular JavaScript into components' function
