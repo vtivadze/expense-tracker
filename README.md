@@ -45,3 +45,6 @@ Synthetic Base Event
 ## Update State which is depending on previous state
 
 ## Handle form submition
+
+## Two way binding
+Empty form input elements after form submition
