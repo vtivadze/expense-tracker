@@ -1,8 +1,16 @@
 ### Concepts Covered
 
+
 ## JSX
-## Create react custom component
-## Import CSS file
-## Define class attribute
-## Using JavaScript expressions in JSX
-## Display data dynamicly in components
+# Create custom React component
+
+## Styling
+# Import CSS file
+# Define class attribute
+
+## JavaScript expressions in JSX
+# Display data dynamicly in React components
+
+## Props
+# Pass parameters to React components
+# Make components reusable
