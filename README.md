@@ -5,7 +5,7 @@
 # Create custom React component
 
 ## Styling
-# Import CSS file
+# Import .css file
 # Define class attribute
 
 ## JavaScript expressions in JSX (Curly brace syntax)
@@ -16,3 +16,7 @@
 # Make components configurable and reusable
 
 ## Use regular JavaScript into components' function
+
+## Splitting Components into Multiple Components
+# Self closing Components
+# Pass props though several components
