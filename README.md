@@ -24,3 +24,5 @@ Pass props though several components
 
 ## Composition, props.children
 Wrapper component
+
+## Organize project file structure
