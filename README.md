@@ -28,3 +28,5 @@ Wrapper component
 ## Organize project file structure
 
 ## Use arrow functions for React components
+
+## Adding Event Listeners
