@@ -52,3 +52,6 @@ Empty form input elements after form submition
 ## Pass value from child to parent
 
 ## Lifting state up
+
+## Controlled and Uncontrolled components
+Stateful (Smart) and Presentational (Stateless, Dumb) components
