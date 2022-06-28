@@ -3,6 +3,7 @@
 
 ## JSX
 Create custom React component
+In component there is allowed only one root element
 
 ## Styling
 Import .css file
