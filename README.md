@@ -21,3 +21,6 @@ Make components configurable and reusable
 ## Splitting Components into Multiple Components
 Self closing Components
 Pass props though several components
+
+## Composition, props.children
+Wrapper component
