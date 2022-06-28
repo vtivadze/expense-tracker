@@ -48,3 +48,7 @@ Synthetic Base Event
 
 ## Two way binding
 Empty form input elements after form submition
+
+## Pass value from child to parent
+
+## Lifting state up
