@@ -22,21 +22,17 @@ const Expenses = (props) => {
         onChangeFilter={filterChangeHandler}
       />
 
-      {filteredExpenses.length === 0 ? (
-        <p>No items to display!</p>
-      ) : (
-        filteredExpenses.length > 0 &&
-        filteredExpenses.map((expense) => {
-          return (
-            <ExpenseItem
-              key={expense.id}
-              title={expense.title}
-              amount={expense.amount}
-              date={expense.date}
-            />
-          );
-        })
-      )}
+      {filteredExpenses.length === 0 && <p>No items to display!</p>}
+      {filteredExpenses.length > 0 && filteredExpenses.map((expense) => {
+        return (
+          <ExpenseItem
+            key={expense.id}
+            title={expense.title}
+            amount={expense.amount}
+            date={expense.date}
+          />
+        );
+      })}
     </Card>
   );
 };
