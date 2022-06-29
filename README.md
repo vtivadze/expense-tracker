@@ -60,3 +60,5 @@ Stateful (Smart) and Presentational (Stateless, Dumb) components
 Unique key for every list item
 
 ## Display content conditionally
+
+## Dynamic Styling
