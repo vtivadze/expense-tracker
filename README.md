@@ -55,3 +55,6 @@ Empty form input elements after form submition
 
 ## Controlled and Uncontrolled components
 Stateful (Smart) and Presentational (Stateless, Dumb) components
+
+## Display list content dynamicly
+Unique key for every list item
